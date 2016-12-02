@@ -1,0 +1,46 @@
+ body
+{
+    max-width:75%;
+    margin:0 auto;
+}
+label,input
+{
+    padding:2em;
+    margin:2em;
+   
+
+}
+input, textarea
+{
+     border:3px solid gray;
+    background-color: powderblue;
+    font-size: medium;
+}
+textarea
+{
+   
+    width:50%;
+    height:55%;
+    margin:3em;
+    padding:1em;
+}
+button
+{
+    padding:1em;
+    border: 3px solid black;
+    margin:1em;
+    font-size: large;
+
+}
+form, aside
+{
+    display:inline-block;
+    vertical-align: top;
+}
+aside
+{
+     margin-left:10em;
+    text-align: center;
+    padding:2em;
+     max-width:49%;
+}
